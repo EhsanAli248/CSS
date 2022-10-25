@@ -1,0 +1,25 @@
+h1{
+    font-weight: 500px;
+
+}
+#p1{
+    font-size: 30px;
+    font-weight:bold;
+    font-style: italic;
+    font-variant: small-caps;
+
+
+}
+#dv1{
+    background-color: yellowgreen;
+    height: 200px;
+    width: 620px;
+    margin-bottom: 20px;
+    opacity: 0.3;
+
+}
+img{
+    margin-top: ;
+    opacity: 0.9;
+
+}

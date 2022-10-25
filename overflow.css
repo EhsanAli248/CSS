@@ -1,0 +1,10 @@
+#div1{
+    background-color: antiquewhite;
+    border: 3px solid red;
+    width: 500px;
+    height: 300px;
+    /* overflow: hidden; */
+    /* overflow-x: hidden;
+    overflow-y: scroll; */
+    overflow: auto;
+}

@@ -1,0 +1,10 @@
+#bg{
+    background-image: url(image/photo.jpg);
+    background-repeat:no-repeat;
+    background-position: 5% 10%;
+    background-size: cover;
+    background-attachment: scroll;
+}
+/*body{
+    background-color: yellow;
+}*/
